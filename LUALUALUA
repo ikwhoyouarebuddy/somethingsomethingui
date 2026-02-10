@@ -338,7 +338,7 @@ function library:new(props)
 		["colorpickers"] = {},
 		["x"] = true,
 		["y"] = true,
-		["key"] = Enum.KeyCode.Delete,
+		["key"] = Enum.KeyCode.LeftAlt,
 		["textsize"] = textsize,
 		["font"] = font,
 		["theme"] = {
