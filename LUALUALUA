@@ -3606,7 +3606,7 @@ function sections:colorpicker(props)
 			BorderSizePixel = 0,
 			Size = UDim2.new(1,0,1,0),
 			ZIndex = 5,
-			Image = "",
+			Image = "rbxassetid://7074305282",
 			Parent = outline3
 		}
 	)
